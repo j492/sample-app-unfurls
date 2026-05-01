@@ -9,8 +9,8 @@ const mapValues = require('lodash.mapvalues');
 const normalizePort = require('normalize-port');
 
 /**
- * Transform a Slack link into a Slack message attachment.
- *
+ * Transform a Slack link into a Slack message attachment..
+ * 
  * @param {Object} link - Slack link
  * @param {string} link.url - The URL of the link
  *
